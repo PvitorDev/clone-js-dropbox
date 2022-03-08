@@ -3,7 +3,7 @@
 
 - Dropbox platform clone 
 - "bower" was used for dependencies 
-- 8 de março de 2022, por enquanto apenas HTML e CSS foram feitos
+- March 8, 2022, for now only HTML and CSS have been made
 
 ## Link
 
